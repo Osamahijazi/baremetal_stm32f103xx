@@ -1,13 +1,11 @@
 # Understanding build procedure and linker script for bare metal embedded systems(ARM Cortex M3)
 
-##Methods :
+## Methods :
 
-###Stm32f103-bluepill
+### Stm32f103-bluepill
 
-###Console Emulator
+### Console Emulator
 
-###OpenCD
-
-###STM32 ST-link Utility
+### STM32 ST-link Utility
 
  
